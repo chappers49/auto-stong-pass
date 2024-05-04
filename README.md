@@ -1,4 +1,4 @@
-# auto-stong-pass
+# auto-strong-pass
 Automation of creating  strong passwords
 We are creating a basic Flask web application that allows users to input a password and recieve feedback on its strenght. 
 Flask is a lightweight Python web framework that's easy to set up and ideal for small projects like this. 
