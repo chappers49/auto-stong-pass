@@ -67,4 +67,4 @@ if __name__ == '__main__':
 #app.run() is a Flask method that starts the Flask development server
 #debug=True provides helpful debugging information in case of errors
 #host='0.0.0.0' specify the IP address to which the serer should bind
-    app.run(debug=True, host='127.0.0.1')
+    app.run(debug=True, host='0.0.0.0')
